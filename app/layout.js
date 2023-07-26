@@ -4,8 +4,8 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Superagent.sh NextJS example",
-  description: "Run superagent.sh in your NextJS app",
+  title: "Fella",
+  description: "bandera fellap",
 };
 
 export default function RootLayout({ children }) {
